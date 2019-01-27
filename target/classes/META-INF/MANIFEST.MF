@@ -1,10 +1,10 @@
 Manifest-Version: 1.0
 Built-By: tonymedrano
 Build-Jdk: 10.0.1
-Implementation-Title: magatron
+Implementation-Title: simple-sprimgmvc-api
 Implementation-Version: 0.1.0
 Implementation-Vendor-Id: org.springframework
 Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
- ot-starter-parent/magatron
+ ot-starter-parent/simple-sprimgmvc-api
 Created-By: Maven Integration for Eclipse
 
